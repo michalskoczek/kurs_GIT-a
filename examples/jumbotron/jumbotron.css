@@ -2,4 +2,14 @@
 body {
   padding-top: 50px;
   padding-bottom: 20px;
+<<<<<<< HEAD
 }
+=======
+  background-color: black;
+  color: white;
+  }
+  
+  h2 {
+	  color: magenta;
+  }
+>>>>>>> d273314... changed header color to magenta
